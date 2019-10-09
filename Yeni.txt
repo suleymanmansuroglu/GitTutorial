@@ -1,3 +1,0 @@
-There are Python AI libraries: AIMA, pyDatalog, SimpleAI, EasyAi, etc.
- There are also Python libraries for machine learning: PyBrain, MDP, scikit, PyML.
- If you’re searching for natural language and text processing libraries, check out NLTK.
